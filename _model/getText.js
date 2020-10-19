@@ -1,4 +1,4 @@
-getText(data_view){
+getText(data){
 	var extra = "";
 	var class_css = "input-full mt-1 mb-3";
 	
