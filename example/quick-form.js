@@ -1,3 +1,5 @@
 var a = new Simapp();
 
-a.quickForm();
+a.quickForm(function(data){
+  console.log(data)
+});
